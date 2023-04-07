@@ -1,0 +1,24 @@
+{
+  "name": "-wordpress-express-handlebars",
+  "version": "1.0.0",
+  "description": "Dynamic node and express application that talks to a Wordpress headless-site with help from handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarasandahl/-wordpress-express-handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarasandahl/-wordpress-express-handlebars/issues"
+  },
+  "homepage": "https://github.com/sarasandahl/-wordpress-express-handlebars#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7"
+  }
+}
